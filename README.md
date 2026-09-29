@@ -1,6 +1,6 @@
 # rl-loadwiseai
 
-Policy Iteration vs. Value Iteration on a data-center load-management MDP. Inspired by Loadwise.ai
+Reinforcement Learning project that revolves around Policy Iteration vs. Value Iteration on a data-center load-management MDP. Inspired by Loadwise.ai
 
 ## Files
 - `datacenter_env.py` – the data-center environment
