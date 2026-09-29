@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pkl
+.vscode/
+.venv/
+A1_Report.docx
